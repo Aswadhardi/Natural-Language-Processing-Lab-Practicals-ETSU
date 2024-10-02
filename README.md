@@ -23,9 +23,9 @@ Topics:
 - [x] Text Cleaning Lab 2
 - [x] Named Entity Recognition Lab 3
 - [x] Topic Modeling Lab 4
-- [ ] Sentiment Analysis Lab 1
-- [ ] Text Classification Lab 1
-- [ ] Sequence Modeling Lab 1
+- [ ] Sentiment Analysis Lab 5
+- [ ] Text Classification Lab 6
+- [ ] Sequence Modeling Lab 7
 - [ ] Advanced Topics in NLP: LLMs & Generative AI 
 
 ------
